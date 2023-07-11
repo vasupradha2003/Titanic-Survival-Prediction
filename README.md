@@ -31,7 +31,7 @@ List of required Python libraries and their versions.
 
 
 ## Results and Insights
-The trained model achieves an accuracy of XX% on the test set, indicating its predictive power in determining survival outcomes. Through the analysis, we have discovered key factors that contribute significantly to a person's chances of survival, such as socio-economic status and gender.
+The trained model achieves an accuracy of 78.2122905027933% on the test set, indicating its predictive power in determining survival outcomes. Through the analysis, we have discovered key factors that contribute significantly to a person's chances of survival, such as socio-economic status and gender.
 
 ## Conclusion
 This project provides valuable insights into the factors that contribute to survival during emergencies at sea, specifically in the context of the Titanic disaster. The predictive model developed here can be used to make predictions on new instances and gain a better understanding of the dynamics of survival.
