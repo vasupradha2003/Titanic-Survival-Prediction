@@ -9,17 +9,19 @@ The project utilizes the famous Titanic dataset, which provides information abou
 
 ## Repository Contents
 ### TASK2.ipynb :
-Jupyter Notebook containing the code for data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.  
+Jupyter Notebook containing the code for data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.uisng linear regression model  
 
-### README.md : 
-This file, providing an overview of the project and repository.  
+## requirements.txt :
+List of required Python libraries and their versions.  
 
 ### titanic_pic.jpg :
-contains Titanic image  
+contains Titanic image   
 
 ### train.csv :
-This file, providing the data set.  
+This file, providing the data set. 
 
+### README.md : 
+This file, providing an overview of the project and repository.   
 
 
 ## Instructions
@@ -27,15 +29,15 @@ This file, providing the data set.
 
 2.Ensure you have Python 3.x and the required libraries installed (listed in requirements.txt).  
 
-3.Open the titanic_prediction.ipynb Jupyter Notebook.  
+3.Open the TASK2.ipynb Jupyter Notebook.  
 
-4.Run the cells in the Notebook to perform data preprocessing, analysis, model training, and evaluation.  
+4.Run the cells in the Notebook to perform data preprocessing, analysis, model training, and evaluation using linear regression model.  
 
 5.Customize the notebook as needed for further analysis or experimentation.  
 
 
 ## Results and Insights
-The trained model achieves an accuracy of 78.2122905027933% on the test set, indicating its predictive power in determining survival outcomes. Through the analysis, we have discovered key factors that contribute significantly to a person's chances of survival, such as socio-economic status and gender.
+The trained model achieves an accuracy of 78.2122905027933% on the test set, indicating its predictive power in determining survival outcomes. Through the analysis, we have discovered key factors that contribute significantly to a person's chances of survival, such as socio-economic status,age and gender.
 
 ## Conclusion
 This project provides valuable insights into the factors that contribute to survival during emergencies at sea, specifically in the context of the Titanic disaster. The predictive model developed here can be used to make predictions on new instances and gain a better understanding of the dynamics of survival.
