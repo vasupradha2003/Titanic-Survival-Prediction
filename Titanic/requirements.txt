@@ -1,0 +1,26 @@
+         REQUIREMENTS
+#Import necessary libraries
+1.Import pandas as pd  :
+  This line imports the pandas library and allows you to use its functions and data structures.
+
+2.Import numpy as np  : 
+This line imports the NumPy library, which provides support for numerical operations and multi-dimensional arrays.
+
+3.import matplotlib.pyplot as plt  :
+This line imports the pyplot module from the matplotlib library, which enables you to create various types of plots and visualizations.
+
+4.import seaborn as sns  :
+This line imports the seaborn library, which is built on top of matplotlib and provides additional visualization capabilities and statistical plotting functions.
+
+5.from sklearn.model_selection import train_test_split  :
+This line imports the train_test_split function from the model_selection module of scikit-learn. It allows you to split your dataset into training and testing subsets for model evaluation.
+
+6.from sklearn.linear_model import LogisticRegression  :
+This line imports the LogisticRegression class from the linear_model module of scikit-learn. It enables you to create a logistic regression model for binary classification tasks.
+
+7.from sklearn.metrics import accuracy_score  :
+This line imports the accuracy_score function from the metrics module of scikit-learn. It allows you to calculate the accuracy of a classification model by comparing predicted labels with true labels.
+
+8.import warnings
+warnings.filterwarnings("ignore")  : 
+These lines import the warnings module and configure it to ignore any warning messages. It helps to suppress unnecessary warning output during the code execution.
