@@ -11,7 +11,7 @@ The project utilizes the famous Titanic dataset, which provides information abou
 ### TASK2.ipynb :
 Jupyter Notebook containing the code for data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.uisng linear regression model  
 
-## requirements.txt :
+### requirements.txt :
 List of required Python libraries and their versions.  
 
 ### titanic_pic.jpg :
