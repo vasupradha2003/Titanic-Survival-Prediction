@@ -8,7 +8,7 @@ The goal of this project is to develop a predictive model that can determine the
 The project utilizes the famous Titanic dataset, which provides information about the passengers onboard the Titanic. The dataset includes features such as socio-economic status (Pclass), gender (Sex), age (Age), the number of siblings/spouses aboard (SibSp), the number of parents/children aboard (Parch), fare (Fare), cabin (Cabin), and port of embarkation (Embarked).
 
 ## Repository Contents
-### titanic_prediction.ipynb :
+### TASK2.ipynb :
 Jupyter Notebook containing the code for data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation.  
 
 ### README.md : 
