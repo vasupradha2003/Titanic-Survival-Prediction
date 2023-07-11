@@ -14,8 +14,10 @@ Jupyter Notebook containing the code for data preprocessing, exploratory data an
 ### README.md: 
 This file, providing an overview of the project and repository.  
 
-### requirements.txt:
+### titanic_pic.jpg:
 List of required Python libraries and their versions.  
+
+### 
 
 
 ## Instructions
