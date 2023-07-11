@@ -1,5 +1,5 @@
 # Titanic-Survival-Prediction
-A repository containing code and resources for predicting the survival of passengers on the Titanic using machine learning techniques.
+A repository containing code and resources for predicting the survival of passengers on the Titanic using machine learning technique i.e. Linear regression model.
 
 ## Project Overview
 The goal of this project is to develop a predictive model that can determine the likelihood of a passenger surviving a sinking event on the Titanic. By analyzing various factors such as socio-economic status, age, gender, and more, we aim to understand the key factors that contribute to a person's chances of survival.
